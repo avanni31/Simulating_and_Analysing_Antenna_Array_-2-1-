@@ -35,7 +35,7 @@ To overcome these limitations, this project combines two identical patch antenna
 - Extend it into a 2×1 array configuration
 - Simulate and analyze performance using CST Microwave Studio
 - Verify results against theoretical calculations
-
+  !(images/1.1.png)
 ---
 
 ## ⚙️ Working Principle
