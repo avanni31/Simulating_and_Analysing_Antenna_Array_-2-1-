@@ -183,6 +183,8 @@ The small deviation from the ideal −3 dB is attributed to:
 - Dielectric loss in the FR4 substrate
 - Radiation loss from the feed network
 - Minor impedance mismatches
+
+  
 ![S21](Images/1.6.png)
 ---
 
