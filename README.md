@@ -35,7 +35,8 @@ To overcome these limitations, this project combines two identical patch antenna
 - Extend it into a 2×1 array configuration
 - Simulate and analyze performance using CST Microwave Studio
 - Verify results against theoretical calculations
-  ![Basic Microstrip Patch Antenna Structure](Images/1.1.png)
+
+   ![Basic Microstrip Patch Antenna Structure](Images/1.1.png)
 ---
 
 ## ⚙️ Working Principle
@@ -54,7 +55,8 @@ Input Signal → Feed Port → T-Junction Power Divider
 4. **Power Splitting** — A T-junction divider splits the input signal equally, ensuring both patches receive the same power and remain in phase.
 5. **Resonance** — Each patch acts as a resonator; fringing fields at the patch edges cause radiation.
 6. **Array Effect** — The two patches radiate together, and their signals combine via **constructive interference**, resulting in higher gain and narrower beamwidth.
-    ![Inset-Fed Rectangular Patch Antenna Geometry](Images/1.2.png)
+
+   ![Inset-Fed Rectangular Patch Antenna Geometry](Images/1.2.png)
     ![Single Patch Antenna Design in CST Studio Suite](Images/1.3.png)
 
 ---
