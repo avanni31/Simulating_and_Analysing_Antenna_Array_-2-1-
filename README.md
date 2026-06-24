@@ -199,6 +199,8 @@ Key observations:
 - Uniform field distribution across both patch elements confirms the array is working symmetrically
 - Field spreading outward indicates effective radiation into free space
 
+
+![E Field](Images/1.8.png)
 ---
 
 ### H-Field Analysis
@@ -210,6 +212,9 @@ Key observations:
 - Magnetic field loops indicate surface current flow on the patches
 - Balanced field distribution across both patches confirms symmetric excitation
 - Outward field propagation contributes to radiation
+
+  ![H Field](Images/1.9.png)
+  ![H](Images/1.10.png)
 
 #### Power Density Calculation from H-Field
 
@@ -231,6 +236,8 @@ The 3D farfield pattern at 2.45 GHz shows:
 
 The pattern confirms the array radiates predominantly in one direction (broadside), with minimal back radiation and low sidelobes — behavior characteristic of a well-designed linear array.
 
+
+![Farfield](Images/1.11.png)
 ---
 
 ### Gain and Directivity
@@ -243,6 +250,8 @@ The pattern confirms the array radiates predominantly in one direction (broadsid
 | Total Efficiency | −3.759 dB |
 | Directivity | 8.875 dBi |
 
+
+![GainImages/1.12.png)
 #### Derived Calculations
 
 **Wavelength:**
