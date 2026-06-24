@@ -123,13 +123,14 @@ Step 5: Analyze Results & Optimize
 ## 📊 Results and Observations
 
 ### Simulated Structure
-
 The final simulated structure consists of:
 - Two microstrip patch elements (yellow)
 - FR4 substrate (beige)
 - Ground plane (bottom layer)
 - T-junction microstrip feed network
 - Wave port (excitation point)
+
+   ![Dual Patch Antenna Configuration with Corporate Feed Network](Images/1.4.png)
 
 ---
 
