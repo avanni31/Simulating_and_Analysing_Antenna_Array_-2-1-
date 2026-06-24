@@ -251,7 +251,7 @@ The pattern confirms the array radiates predominantly in one direction (broadsid
 | Directivity | 8.875 dBi |
 
 
-![GainImages/1.12.png)
+![Gain](Images/1.12.png)
 #### Derived Calculations
 
 **Wavelength:**
