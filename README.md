@@ -144,6 +144,8 @@ The **Voltage Standing Wave Ratio (VSWR)** measures how well the antenna is matc
 | VSWR < 2 | Acceptable operation |
 | VSWR > 2 | Poor matching |
 
+
+![VSWR Analysis](Images/1.5.png)
 **Result:** VSWR ≈ **1.1 – 1.3** at 2.45 GHz
 
 The VSWR plot shows a sharp dip near 2.5 GHz, confirming:
@@ -167,6 +169,8 @@ $$S_{11} = 20\log_{10}|\Gamma|$$
 
 > A return loss of −30 dB indicates excellent impedance matching at the target frequency.
 
+
+![S11](Images/1.7.png)
 #### S21/S31 — Transmission Coefficient (Power Split)
 
 Power is divided using a **T-junction power divider**. For an ideal equal split:
@@ -179,7 +183,7 @@ The small deviation from the ideal −3 dB is attributed to:
 - Dielectric loss in the FR4 substrate
 - Radiation loss from the feed network
 - Minor impedance mismatches
-
+![S21](Images/1.6.png)
 ---
 
 ### E-Field Distribution
